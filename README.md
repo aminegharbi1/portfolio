@@ -1,5 +1,7 @@
 # Mohamed Amine Gharbi · Portfolio
 
+🌐 **Live: [aminegharbi.vercel.app](https://aminegharbi.vercel.app)**
+
 Personal portfolio of an AI & Data Engineering student at EMSI Casablanca. All content (profile, projects, journey, skills, FAQ, CV) is stored in PostgreSQL and edited from a private `/admin` space, so the site can be updated without touching code.
 
 **Stack:** Next.js 16 (App Router, Turbopack) · React 19 · TypeScript · Tailwind CSS 4 · Prisma 7 + PostgreSQL · Auth.js · Vercel Blob · Vitest
